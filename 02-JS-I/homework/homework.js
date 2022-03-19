@@ -8,6 +8,7 @@ const nuevoNum = 10;
 
 // Crea una variable booleana:
 const nuevoBool = null;
+var soyderacing
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
